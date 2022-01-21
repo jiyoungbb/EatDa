@@ -44,18 +44,23 @@
 <img width:"1401" alt="erd" src="https://user-images.githubusercontent.com/78011677/150083165-b9a9798c-9077-47f6-b100-42b76252fc93.png">
 
 <h3>로그인</h3>
-<h4>1) 로그인 메인</h4>
 <img width="1401" src="https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png">
 <br>
 <h3>회원가입</h3>
-<h4>1) 이벤트 메인(갤러리 형태의 리스트)</h4>
-<img width="1405" alt="스크린샷 2022-01-19 오후 12 22 42" src="https://user-images.githubusercontent.com/78011677/150058254-d258c46a-5817-4dce-9138-db25829af5d5.png">
-<h4>2) 이벤트 상세 보기</h4>
-<img width="1404" alt="스크린샷 2022-01-19 오후 12 22 50" src="https://user-images.githubusercontent.com/78011677/150058261-c80e3944-6595-4ff2-8948-c499d3d5d073.png">
-<h4>3) 이벤트 작성</h4>
-<img width="1405" alt="스크린샷 2022-01-19 오후 12 22 56" src="https://user-images.githubusercontent.com/78011677/150058270-b5ad3fd6-a039-4f74-a90f-572ed01dcf72.png">
-<h4>4) 이벤트 수정</h4>
-<img width="1405" alt="스크린샷 2022-01-19 오후 12 23 03" src="https://user-images.githubusercontent.com/78011677/150058280-a9fcf2dd-9ee9-4d0d-b2cd-127e253b93a9.png">
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150466906-b94e6599-2e4c-488c-99b9-8dad08529afa.png">
+<br>
+<h3>마이페이지</h3>
+<h4>1) 마이페이지 메인</h4>
+<img width="1404" src="https://user-images.githubusercontent.com/91187887/150466973-3cccb82b-0f7d-4962-b4d2-9f46c864dadb.png">
+<h4>2) 내 정보 수정</h4>
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150467001-77723c0e-4e60-45ba-b0c4-556df3f5119a.png">
+<h4>3) 찜목록</h4>
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150467081-81f76dbe-47cf-455e-a833-d683f9b5fe00.png">
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150467124-36c8f9d5-9399-4a1d-97f9-c416c8e5caf9.png">
+<h4>4) 구독내역</h4>
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150467157-32597492-b9d8-498e-afda-ffb445382d69.png">
+<h4>5) 쿠폰함</h4>
+<img width="1405" src="https://user-images.githubusercontent.com/91187887/150467206-9613319c-681f-4471-9267-2dfa71f74a9a.png">
 
 <br>
 
@@ -65,8 +70,6 @@
   <li>블로그 명칭을 블로그 --> eatDaGram(잇다그램)으로 변경</li>
   <li>summernote api 적용 완료(text 및 다중 image 서버에 업로드)</li>
 </ul>
-<h3><a href="https://youtu.be/NBUTcBKvKzs">블로그 ( eatDaGram ) 페이지 결과 화면 : YouTube Link</a></h3>
-<h3><a href="https://youtu.be/afVzUJeX7eA">이벤트 페이지 결과 화면 : YouTube Link</a></h3>
 
 <br>
 
