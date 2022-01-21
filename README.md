@@ -43,6 +43,7 @@
 <h3>DB 설계</h3>
 <img width:"1401" alt="erd" src="https://user-images.githubusercontent.com/78011677/150083165-b9a9798c-9077-47f6-b100-42b76252fc93.png">
 
+<h3>화면 설계</h3>
 <h3>로그인</h3>
 <img width="1401" src="https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png">
 <br>
