@@ -44,16 +44,8 @@
 <img width:"1401" alt="erd" src="https://user-images.githubusercontent.com/78011677/150083165-b9a9798c-9077-47f6-b100-42b76252fc93.png">
 
 <h3>로그인</h3>
-<h4>1)</h4>
+<h4>1) 로그인 메인</h4>
 <img width="1401" src="https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png">
-<h4>2) 블로그 상세 보기 및 댓글 보기</h4>
-<img width="1401" alt="스크린샷 2022-01-19 오후 12 21 46" src="https://user-images.githubusercontent.com/78011677/150058391-4e88e106-ad90-438a-b68a-0d51b83c2d04.png">
-<h4>3) 블로그 작성</h4>
-<img width="1410" alt="스크린샷 2022-01-19 오후 12 21 59" src="https://user-images.githubusercontent.com/78011677/150058395-7ea90750-3b6b-4cba-9823-1357230c123c.png">
-<h4>4) 블로그 수정</h4>
-<img width="1401" alt="스크린샷 2022-01-19 오후 12 22 16" src="https://user-images.githubusercontent.com/78011677/150058401-557cb7c1-cb28-41fc-a927-d5c034501698.png">
-<h4>5) 댓글 신고</h4>
-<img width="1407" alt="스크린샷 2022-01-19 오후 12 22 27" src="https://user-images.githubusercontent.com/78011677/150058405-de13bc80-3ea2-423b-a82b-789bb97623a3.png">
 <br>
 <h3>회원가입</h3>
 <h4>1) 이벤트 메인(갤러리 형태의 리스트)</h4>
