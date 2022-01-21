@@ -15,13 +15,47 @@
 <br>
 <h2>2. 사용 기술</h2>
 <ul>
-  <li>사용 언어 : Java(8), JavaScript(ES5), HTML5, CSS3 프레임워크 : Spring Legacy, MyBatis, Bootstrap</li>
-  <li>라이브러리 : jQuery, Jackson</li>
-  <li>서버 : Tomcat 9.0</li>
-  <li>DB : Oracle(11g)</li>
-  <li>협업툴 : Github</li>
-  <li>개발툴 : Eclipse</li>
-  <li>운영체제 : Window10, Mac</li>
+  <li>
+    사용언어 : 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-orange?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  </li>
+  <li>
+    프레임워크 : 
+    <img src="https://img.shields.io/badge/Spring Legacy-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=MyBatis&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  </li>
+  <li>
+    라이브러리 : 
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GSON-black?style=flat-square&logo=gson&logoColor=white"/>   
+  </li>
+  <li>
+    서버 : 
+    <img src="https://img.shields.io/badge/Tomcat9.0-yellow?style=flat-square&logo=apachetomcat&logoColor=white"/>
+  </li>
+  <li>
+    데이터베이스 : 
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  </li>
+  <li>
+    협업툴 :
+    <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/>
+  </li>
+  <li>
+    개발툴 :
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+  </li>
+  <li>
+    운영체제 :
+    <img src="https://img.shields.io/badge/Windows10-black?style=flat-square&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mac-black?style=flat-square&logo=MacOs&logoColor=white"/> 
+  </li>
 </ul>
 <br>
 <h2>3. 페이지 및 기능</h2>
@@ -67,18 +101,18 @@
 
 <h2>5. 결과</h2>
 <ul>
-  <li>의도대로 화면 구현 완료</li>
-  <li>블로그 명칭을 블로그 --> eatDaGram(잇다그램)으로 변경</li>
-  <li>summernote api 적용 완료(text 및 다중 image 서버에 업로드)</li>
+  <li>의도대로 화면 구현, 기능 구현 완료</li>
+  <li>주문내역 -> 주문한 상품으로 변경</li>
+  <li>주문한 상품에 리뷰 등록버튼 추가 후 리뷰 등록 페이지 추가</li>
+  <li>주문 내역 리스트 추가하여 결제 완료 페이지로  </li>
 </ul>
 
 <br>
 
 <h2>6. 프로젝트를 하며 느낀점</h2>
 <ul>
-  <li>원활한 커뮤니케이션과 협업을 통해 문제해결 의지 상승 및 문제해결에 가까워졌을 때의 즐거움이 컸다.</li>
+  <li>원활한 커뮤니케이션 속에서 성공적으로 마칠 수 있는 프로젝트였다.  </li>
   <li>Spring Legacy를 배운 후 적용해볼 수 있어 유용한 시간이었다.</li>
-  <li>전반적인 아키텍쳐를 표현하고 시작하지 않아 아쉬웠다.</li>
-  <li>보안적인 측면까지 고려할 수 있었다면 좋았을 것 같다.</li>
-  <li>깃 프로젝트 관리를 좀 더 깔끔하게 할 수 있도록 익혀야겠다.</li>
+  <li>다양한 api를 사용하지 못해 아쉬웠다. 더 공부하여 기술적으로 풍부한 웹 사이트를 구축하고 싶다.</li>
+  <li>깃허브를 다루는 데에 미숙하다는 것을 깨닫고 더 공부해야겠다고 생각했다.</li>
 </ul>
