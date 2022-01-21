@@ -43,9 +43,9 @@
 <h3>DB 설계</h3>
 <img width:"1401" alt="erd" src="https://user-images.githubusercontent.com/78011677/150083165-b9a9798c-9077-47f6-b100-42b76252fc93.png">
 
-<h3>블로그 ( eatDaGram )</h3>
-<h4>1) 블로그 메인(리스트)</h4>
-<img width="1402" alt="스크린샷 2022-01-19 오후 12 21 34" src="https://user-images.githubusercontent.com/78011677/150058384-8891e851-b894-471f-bafe-738ea3136700.png">
+<h3>로그인</h3>
+<h4>1)</h4>
+![image](https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png)
 <h4>2) 블로그 상세 보기 및 댓글 보기</h4>
 <img width="1401" alt="스크린샷 2022-01-19 오후 12 21 46" src="https://user-images.githubusercontent.com/78011677/150058391-4e88e106-ad90-438a-b68a-0d51b83c2d04.png">
 <h4>3) 블로그 작성</h4>
@@ -55,7 +55,7 @@
 <h4>5) 댓글 신고</h4>
 <img width="1407" alt="스크린샷 2022-01-19 오후 12 22 27" src="https://user-images.githubusercontent.com/78011677/150058405-de13bc80-3ea2-423b-a82b-789bb97623a3.png">
 <br>
-<h3>이벤트</h3>
+<h3>회원가입</h3>
 <h4>1) 이벤트 메인(갤러리 형태의 리스트)</h4>
 <img width="1405" alt="스크린샷 2022-01-19 오후 12 22 42" src="https://user-images.githubusercontent.com/78011677/150058254-d258c46a-5817-4dce-9138-db25829af5d5.png">
 <h4>2) 이벤트 상세 보기</h4>
