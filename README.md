@@ -45,7 +45,7 @@
 
 <h3>로그인</h3>
 <h4>1)</h4>
-![image](https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png)
+<img width="1401" src="https://user-images.githubusercontent.com/91187887/150466229-310df96e-ba06-4691-bee1-8ceeb4691c99.png">
 <h4>2) 블로그 상세 보기 및 댓글 보기</h4>
 <img width="1401" alt="스크린샷 2022-01-19 오후 12 21 46" src="https://user-images.githubusercontent.com/78011677/150058391-4e88e106-ad90-438a-b68a-0d51b83c2d04.png">
 <h4>3) 블로그 작성</h4>
